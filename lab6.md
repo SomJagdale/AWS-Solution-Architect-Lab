@@ -24,4 +24,4 @@ No SQL databases
 
 ![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/bb0cf214-7f9f-45b2-a50e-4e01cb099f85)
 
-Microservices 
+ 
