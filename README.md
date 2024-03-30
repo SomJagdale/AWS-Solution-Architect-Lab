@@ -29,3 +29,7 @@ Concepts/Services
 
 
 Lab 1 - API with database
+  1. Create DynamoDB to store vehicle data
+  2. Create lambda function to save records in dynamoDB
+  3. Create REST API using API Gateway
+
