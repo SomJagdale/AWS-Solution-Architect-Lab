@@ -24,6 +24,8 @@ Concepts/Services
 21. ARN - Amezon Resource Number
 22. Lambda
 23. REST
+24. Singl Digit milisecond performance
+25. Mirosecond performance
 
 
 
