@@ -27,6 +27,18 @@ Concepts/Services
 
 
 
+Microservices 
+
+![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/571d27af-9e56-4a29-abd4-43fa68cd20b5)
+
+![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/db70fb6d-aaf6-4e37-a358-231fef30cc4f)
+
+Microservices provided by the AWS
+![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/dd07c4f4-ff36-4b4b-803d-de5dee7940cf)
+
+
+
+
 
 
 
