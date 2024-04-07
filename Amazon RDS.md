@@ -7,4 +7,6 @@ Amazon RDS
 
 ![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/3a9715c2-fcb9-4786-b428-9fc07e8405fe)
 
+![image](https://github.com/SomJagdale/AWS-Solution-Architect-Lab/assets/97079268/31d94b98-15e2-4e83-b085-b735a0125fcd)
+
 ![Uploading image.png…]()
